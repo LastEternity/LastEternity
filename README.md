@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello! Thank you so much for taking a look at my GitHub profile. Feel free to reach out to me if you would like to collaborate on any projects or work on anything.
 
 <!--
 **LastEternity/LastEternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
